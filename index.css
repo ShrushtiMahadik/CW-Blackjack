@@ -1,0 +1,40 @@
+
+h1 ,span,p {
+    margin: 10px;
+    height: 10vh; 
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    text-align: center; 
+    font-size: 38px;
+    color: burlywood;
+}
+
+h1  {
+    margin: 10px;
+    height: 10vh; 
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    text-align: center; 
+    font-size: 50px;
+    color: burlywood;
+}
+
+button{
+    margin: 10px;
+    justify-content: center;
+    align-items: center; 
+    text-align: center; 
+    color: rgb(23, 6, 77);
+    font-size: 40px;
+}
+
+body{
+    justify-content: center;
+    align-items: center; 
+    text-align: center; 
+    background-image: url("C:/Users/SHRUSHTI/OneDrive/Desktop/Blackjack/background.jpg");
+}
